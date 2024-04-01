@@ -1,0 +1,19 @@
+{
+    "notes": [
+          {
+            "title": "Grocery List",
+            "text": "Eggs, Milk, Cheese",
+            "id": "123"
+          },
+          {
+            "title": "Work Todos",
+            "text": "follow up on notes from team meeting",
+            "id": "234"
+          },
+          {
+            "title": "Dinner Ideas for the Week",
+            "text": "Sushi, Roasted Chicken and Mash",
+            "id": "345"
+          }
+        ]
+      }
